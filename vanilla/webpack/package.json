@@ -1,7 +1,7 @@
 {
-	"name": "mindspace",
+	"name": "projectname",
 	"version": "1.0.0",
-	"description": "Mindspace frontend",
+	"description": "",
 	"scripts": {
 		"build": "webpack --config=webpack.config.prod.js",
 		"dev:build": "webpack --config=webpack.config.dev.js",
@@ -10,7 +10,7 @@
 	"keywords": [
 		"Mindspace"
 	],
-	"author": "Ep Sooraj, Christie Jacob",
+	"author": "",
 	"license": "MIT",
 	"devDependencies": {
 		"@babel/core": "^7.9.6",
