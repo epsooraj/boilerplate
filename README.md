@@ -7,10 +7,10 @@ Aim of the project is to have an upto date boilerplate for frameworks and tools 
 ### Javascript
 #### React
 
-1. React with webpack
-1. React Redux (create-react-app)
+1. [React with webpack](javascript/react/react-webpack-babel-boilerplate)
+1. [React Redux (create-react-app)](javascript/react/react-redux-boilerplate)
 
 #### Vanilla
 
-1. Webpack
-2. Parcel
+1. [Webpack](javascript/vanilla/webpack)
+2. [Parcel](javascript/vanilla/parcel)
