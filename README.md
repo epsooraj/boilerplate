@@ -1,6 +1,6 @@
 # Boilerplates of major Frameworks
 
-Aim of the project is to have an upto date boilerplate for frameworks and tools such as Webpack, React etc.
+Aim of the project is to keep boilerplates for frameworks and tools such as Webpack, React etc.
 
 ## Currently in the bucket
 
